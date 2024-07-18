@@ -1,0 +1,5 @@
+# Tabelas que serão monitoradas e buscadas no eventos para validar
+tables_to_watch:
+  - database1.tabela1
+  - database2.tabela2
+  - database3.tabela3

@@ -1,0 +1,12 @@
+{
+    "codigo_identificador_evento": "evento123",
+    "codigo_identificador_evento_tratada": "evento123_tratada",
+    "nome_escopo": "aws.glue",
+    "nome_acao": "DataLoad",
+    "descricao_carga": "Carga de dados exemplo",
+    "nome_base": "database_exemplo",
+    "nome_tabela_evento": "tabela_exemplo",
+    "nome_particao": "particao_exemplo",
+    "codigo_particao": "[2023, 5, 1]",
+    "data_hora_processamento": "2023-05-01T12:00:00Z"
+}

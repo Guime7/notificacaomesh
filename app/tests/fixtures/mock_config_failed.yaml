@@ -1,0 +1,4 @@
+# Sem a variavel tables_to_watch, o teste falha.
+- database1.tabela1
+- database2.tabela2
+- database3.tabela3

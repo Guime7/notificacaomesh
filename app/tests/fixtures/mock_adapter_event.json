@@ -1,0 +1,8 @@
+{
+    "DatabaseName": "database1",
+    "TableName": "table1",
+    "PartitionInputList": [
+        {"Values": ["value1", "value2"]},
+        {"Values": ["value3", "value4"]}
+    ]
+}

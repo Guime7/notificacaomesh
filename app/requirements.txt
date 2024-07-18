@@ -1,0 +1,7 @@
+boto3
+mypy-boto3-sqs
+pyyaml
+
+moto
+pytest
+pytest-cov
